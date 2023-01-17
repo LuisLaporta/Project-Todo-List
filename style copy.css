@@ -1,0 +1,83 @@
+body {
+  background-image: url('391668-night-coffee-drinking-city-scenery-4k-pc-wallpaper.jpg');
+  background-size: cover;
+}
+
+header, h1, p, div, input, li, ol {
+  background-color: white;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+P {
+  font-style: italic;
+  margin-top: 5px;
+  margin-bottom: 25px;
+}
+
+ol {
+  margin-bottom: 20px;
+  font-weight: 900;
+}
+
+header {
+  padding: 5px 0px 25px 25px;
+  margin: 3% 50% 5px 3%;
+  border-radius: 15px;
+  box-shadow: 10px 9px 50px black;
+}
+
+button {
+  height: 30px;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  margin-left: 15px;
+  font-weight: 900;
+}
+
+#criar-tarefa {
+  margin-left: 5px;
+  width: 100px;
+  background-color: rgb(0, 191, 255);
+}
+
+#apaga-tudo {
+  width: 110px;
+  background-color: red;
+}
+
+#remover-finalizados {
+  width: 140px;
+  background-color: rgb(0, 191, 255);
+}
+
+#salvar-tarefas {
+  width: 110px;
+  background-color: rgb(9, 221, 9);
+}
+
+#mover-cima {
+  width: 60px;
+  background-color: orange;
+}
+
+#mover-baixo {
+  width: 80px;
+  background-color: orange;
+}
+
+#remover-selecionado {
+  width: 50px;
+  background-color: red;
+}
+
+.selected {
+  background-color: gray;
+}
+
+.completed {
+  text-decoration: line-through solid black;
+}
