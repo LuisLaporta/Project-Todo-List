@@ -10,7 +10,7 @@
 
 <h2>Funcionalidades</h2>
 
-<ul><li><strong>Paleta de Cores (Pallete)</stong></li></ul>
+<!-- <ul><li><strong>Paleta de Cores (Pallete)</stong></li></ul>
 <blockquote>
 <p>Quatro cores geradas aleatoriamente ao carregar a página, clicando em cima da cor desejada a mesma é selecionada.</p>
 </blockquote>
@@ -23,7 +23,7 @@
 <ul><li><strong>Limpar</stong></li></ul>
 <blockquote>
 <p>É um botão que limpa o quadro todo, ou seja, o quadro todo volta a cor padrão (branco).</p>
-</blockquote>
+</blockquote> -->
 
 <h2>Tecnologias</h2>
 
