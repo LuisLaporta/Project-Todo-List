@@ -2,11 +2,11 @@
 
 <h2>Introdução</h2>
 
-<p>Este projeto foi o primeiro projeto que fiz utilizando CSS, HTML e Javascript, tendo em vista que nunca tive contato com programação até entrar na Trybe!<p>
+<p>Este projeto foi o primeiro projeto que utilizei localStorage, foi dificíl no começo entretando acredito que o utilizei corretamente, o que me deixou extremamente feliz.<p>
 
 <h2>O que foi Desenvolvido?</h2>
 
-<p>Neste projeto foi desenvolvido um editor de arte com Pixels, nop qual a pessoa usuária poderá escolher uma cor na paleta de cores e com esta cor pintar um quadro branco. A paleta de cores tem um total de quatro cores distintas geradas randomicamente ao atualizar a página, todas podem ser utilizadas para pintar o quadro branco, que originalmente tem um tamanho de 5x5 e pode chegar até o limite de 50x50.</p>
+<p>Neste projeto foi desenvolvido uma lista de tarefas que se inicia vazia e o usuário pode popular a mesma. Quando uma tarefa é finalizada o usuário pode riscala clicando duas vezes sobre a mesa, também é possível trocar as ordens das tarefas assim como apagar uma tarefa específica ou todas as tarefas da lista. O usuário pode salvar sua lista de tarefas, assim podendo acessar-la outras vezes.</p>
 
 <h2>Funcionalidades</h2>
 
