@@ -10,20 +10,40 @@
 
 <h2>Funcionalidades</h2>
 
-<!-- <ul><li><strong>Paleta de Cores (Pallete)</stong></li></ul>
+<ul><li><strong>Adicionar Tarefa</stong></li></ul>
 <blockquote>
-<p>Quatro cores geradas aleatoriamente ao carregar a página, clicando em cima da cor desejada a mesma é selecionada.</p>
+<p>Escreva a tarefa desejada no input de texto e clique no botão "Adicionar", assim suas tarefas irão ser listada na rodem que forem adicionadas.</p>
 </blockquote>
 
-<ul><li><strong>Tamanho do Quadro (Board Size)</stong></li></ul>
+<ul><li>Marcar como Concluido</stong></li></ul>
 <blockquote>
-<p>Um input do tipo número limitado até 50 que define o tamanho do quadro desejado, sendo por padrão 5x5 (tmabém é o tamanho mínimo permitido). Após selecionar o tamanho desejado é só clicar no botão VQV que o quadro em branco é gerado.</p>
+<p>Para marcar como concluído uma tarefa basta clicar duas vezes em cima da mesma que ela ficará riscada.</p>
 </blockquote>
 
-<ul><li><strong>Limpar</stong></li></ul>
+<ul><li><strong>Excluir Tarefa</stong></li></ul>
 <blockquote>
-<p>É um botão que limpa o quadro todo, ou seja, o quadro todo volta a cor padrão (branco).</p>
-</blockquote> -->
+<p>Para excluir tarefa, clique na mesma e após isso clique no botão em vermelho com um "X".</p>
+</blockquote>
+
+<ul><li><strong>Mudar Ordem das Tarefas</stong></li></ul>
+<blockquote>
+<p>Selecione a tarefa que deseja mudar de ordem, e clique no botão "up" para subir a tarefa ou "down" para descer..</p>
+</blockquote>
+
+<ul><li><strong>Excluir Tarefas Finalizadas</stong></li></ul>
+<blockquote>
+<p>Para excluir tarefas finalizadas, clique no botão "Limpar Finalizados" assim todas as tarefas que estiverem riscadas serão excluidas.</p>
+</blockquote>
+
+<ul><li><strong>Excluir Lista</stong></li></ul>
+<blockquote>
+<p>Para excluir a lista de tarefas é só clicar em "Limpar Lista".</p>
+</blockquote>
+
+<ul><li><strong>Salvar Lista</stong></li></ul>
+<blockquote>
+<p>Para excluir a lista de tarefas é só clicar em "Salvar Lista".</p>
+</blockquote>
 
 <h2>Tecnologias</h2>
 
