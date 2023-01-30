@@ -42,7 +42,7 @@
 
 <ul><li><strong>Salvar Lista</stong></li></ul>
 <blockquote>
-<p>Para excluir a lista de tarefas é só clicar em "Salvar Lista".</p>
+<p>Para salvar a lista de tarefas é só clicar em "Salvar Lista".</p>
 </blockquote>
 
 <h2>Tecnologias</h2>
